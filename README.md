@@ -16,7 +16,7 @@ Na primeira Linha de cada arquivo de resolução está o URL do enunciado do pro
 
 ### Lista 1
   * Sara
-    * 1000 - [Resolução](SaraIsabeleLimaDeOliveira/Lista 1/1000.py)
+    * 1000 - [Resolução](https://github.com/JimCarey08/Algoritmos-e-Programa-o/blob/main/SaraIsabeleLimaDeOliveira/Lista%201/1000.py)
     * 1001 - [Resolução]()
     * 1002 - [Resolução]()
     * 1003 - [Resolução]()
