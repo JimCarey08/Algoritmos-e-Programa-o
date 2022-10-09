@@ -40,35 +40,35 @@ Na primeira Linha de cada arquivo de resolução está o URL do enunciado do pro
 
 ### Lista 2
   * Sara
-   * 1711 - [Resolução](https://github.com/JimCarey08/Algoritmos-e-Programa-o/blob/main/SaraIsabeleLimaDeOliveira/Lista%202/1711.py)
-   * 1713 - [Resolução](https://github.com/JimCarey08/Algoritmos-e-Programa-o/blob/main/SaraIsabeleLimaDeOliveira/Lista%202/1713.py)
-   * 1714 - [Resolução](https://github.com/JimCarey08/Algoritmos-e-Programa-o/blob/main/SaraIsabeleLimaDeOliveira/Lista%202/1714.py)
-   * 1715 - [Resolução](https://github.com/JimCarey08/Algoritmos-e-Programa-o/blob/main/SaraIsabeleLimaDeOliveira/Lista%202/1715.py)
-   * 1716 - [Resolução](https://github.com/JimCarey08/Algoritmos-e-Programa-o/blob/main/SaraIsabeleLimaDeOliveira/Lista%202/1716.py)
+    * 1711 - [Resolução](https://github.com/JimCarey08/Algoritmos-e-Programa-o/blob/main/SaraIsabeleLimaDeOliveira/Lista%202/1711.py)
+    * 1713 - [Resolução](https://github.com/JimCarey08/Algoritmos-e-Programa-o/blob/main/SaraIsabeleLimaDeOliveira/Lista%202/1713.py)
+    * 1714 - [Resolução](https://github.com/JimCarey08/Algoritmos-e-Programa-o/blob/main/SaraIsabeleLimaDeOliveira/Lista%202/1714.py)
+    * 1715 - [Resolução](https://github.com/JimCarey08/Algoritmos-e-Programa-o/blob/main/SaraIsabeleLimaDeOliveira/Lista%202/1715.py)
+    * 1716 - [Resolução](https://github.com/JimCarey08/Algoritmos-e-Programa-o/blob/main/SaraIsabeleLimaDeOliveira/Lista%202/1716.py)
   * Lucas 
-   * 1711 - [Resolução](https://github.com/JimCarey08/Algoritmos-e-Programa-o/blob/main/Lucas_Vieira_Ribeiro/Lista_2/1711.py)
-   * 1713 - [Resolução](https://github.com/JimCarey08/Algoritmos-e-Programa-o/blob/main/Lucas_Vieira_Ribeiro/Lista_2/1713.py)
-   * 1714 - [Resolução](https://github.com/JimCarey08/Algoritmos-e-Programa-o/blob/main/Lucas_Vieira_Ribeiro/Lista_2/1714.py)
-   * 1715 - [Resolução](https://github.com/JimCarey08/Algoritmos-e-Programa-o/blob/main/Lucas_Vieira_Ribeiro/Lista_2/1715.py)
-   * 1716 - [Resolução](https://github.com/JimCarey08/Algoritmos-e-Programa-o/blob/main/Lucas_Vieira_Ribeiro/Lista_2/1716.py) 
+    * 1711 - [Resolução](https://github.com/JimCarey08/Algoritmos-e-Programa-o/blob/main/Lucas_Vieira_Ribeiro/Lista_2/1711.py)
+    * 1713 - [Resolução](https://github.com/JimCarey08/Algoritmos-e-Programa-o/blob/main/Lucas_Vieira_Ribeiro/Lista_2/1713.py)
+    * 1714 - [Resolução](https://github.com/JimCarey08/Algoritmos-e-Programa-o/blob/main/Lucas_Vieira_Ribeiro/Lista_2/1714.py)
+    * 1715 - [Resolução](https://github.com/JimCarey08/Algoritmos-e-Programa-o/blob/main/Lucas_Vieira_Ribeiro/Lista_2/1715.py)
+    * 1716 - [Resolução](https://github.com/JimCarey08/Algoritmos-e-Programa-o/blob/main/Lucas_Vieira_Ribeiro/Lista_2/1716.py) 
 
 ### Lista 3
   * Sara
-   * 1733 - [Resolução](https://github.com/JimCarey08/Algoritmos-e-Programa-o/blob/main/SaraIsabeleLimaDeOliveira/Lista%203/1733.py)
-   * 1734 - [Resolução](https://github.com/JimCarey08/Algoritmos-e-Programa-o/blob/main/SaraIsabeleLimaDeOliveira/Lista%203/1734.py)
-   * 1735 - [Resolução](https://github.com/JimCarey08/Algoritmos-e-Programa-o/blob/main/SaraIsabeleLimaDeOliveira/Lista%203/1735.py)
+    * 1733 - [Resolução](https://github.com/JimCarey08/Algoritmos-e-Programa-o/blob/main/SaraIsabeleLimaDeOliveira/Lista%203/1733.py)
+    * 1734 - [Resolução](https://github.com/JimCarey08/Algoritmos-e-Programa-o/blob/main/SaraIsabeleLimaDeOliveira/Lista%203/1734.py)
+    * 1735 - [Resolução](https://github.com/JimCarey08/Algoritmos-e-Programa-o/blob/main/SaraIsabeleLimaDeOliveira/Lista%203/1735.py)
   * Lucas 
-   * 1733 - [Resolução](https://github.com/JimCarey08/Algoritmos-e-Programa-o/blob/main/Lucas_Vieira_Ribeiro/Lista_3/1733.py)
-   * 1734 - [Resolução](https://github.com/JimCarey08/Algoritmos-e-Programa-o/blob/main/Lucas_Vieira_Ribeiro/Lista_3/1734.py)
-   * 1735 - [Resolução](https://github.com/JimCarey08/Algoritmos-e-Programa-o/blob/main/Lucas_Vieira_Ribeiro/Lista_3/1735.py)
-   * 1737 - [Resolução](https://github.com/JimCarey08/Algoritmos-e-Programa-o/blob/main/Lucas_Vieira_Ribeiro/Lista_3/1737.py)
+    * 1733 - [Resolução](https://github.com/JimCarey08/Algoritmos-e-Programa-o/blob/main/Lucas_Vieira_Ribeiro/Lista_3/1733.py)
+    * 1734 - [Resolução](https://github.com/JimCarey08/Algoritmos-e-Programa-o/blob/main/Lucas_Vieira_Ribeiro/Lista_3/1734.py)
+    * 1735 - [Resolução](https://github.com/JimCarey08/Algoritmos-e-Programa-o/blob/main/Lucas_Vieira_Ribeiro/Lista_3/1735.py)
+    * 1737 - [Resolução](https://github.com/JimCarey08/Algoritmos-e-Programa-o/blob/main/Lucas_Vieira_Ribeiro/Lista_3/1737.py)
 
 ### Lista 4
   * Sara
-   * 1759 - [Resolução](https://github.com/JimCarey08/Algoritmos-e-Programa-o/blob/main/SaraIsabeleLimaDeOliveira/Lista%204/1759.py)
-   * 1760 - [Resolução](https://github.com/JimCarey08/Algoritmos-e-Programa-o/blob/main/SaraIsabeleLimaDeOliveira/Lista%204/1760.py)
-   * 1761 - [Resolução](https://github.com/JimCarey08/Algoritmos-e-Programa-o/blob/main/SaraIsabeleLimaDeOliveira/Lista%204/1761.py)
+    * 1759 - [Resolução](https://github.com/JimCarey08/Algoritmos-e-Programa-o/blob/main/SaraIsabeleLimaDeOliveira/Lista%204/1759.py)
+    * 1760 - [Resolução](https://github.com/JimCarey08/Algoritmos-e-Programa-o/blob/main/SaraIsabeleLimaDeOliveira/Lista%204/1760.py)
+    * 1761 - [Resolução](https://github.com/JimCarey08/Algoritmos-e-Programa-o/blob/main/SaraIsabeleLimaDeOliveira/Lista%204/1761.py)
   * Lucas
-   * 1759 - [Resolução](https://github.com/JimCarey08/Algoritmos-e-Programa-o/blob/main/Lucas_Vieira_Ribeiro/Lista_4/1759.py)
-   * 1760 - [Resolução](https://github.com/JimCarey08/Algoritmos-e-Programa-o/blob/main/Lucas_Vieira_Ribeiro/Lista_4/1760.py)
-   * 1761 - [Resolução](https://github.com/JimCarey08/Algoritmos-e-Programa-o/blob/main/Lucas_Vieira_Ribeiro/Lista_4/1761.py) 
+    * 1759 - [Resolução](https://github.com/JimCarey08/Algoritmos-e-Programa-o/blob/main/Lucas_Vieira_Ribeiro/Lista_4/1759.py)
+    * 1760 - [Resolução](https://github.com/JimCarey08/Algoritmos-e-Programa-o/blob/main/Lucas_Vieira_Ribeiro/Lista_4/1760.py)
+    * 1761 - [Resolução](https://github.com/JimCarey08/Algoritmos-e-Programa-o/blob/main/Lucas_Vieira_Ribeiro/Lista_4/1761.py) 
