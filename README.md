@@ -3,10 +3,8 @@
 
 ## Colaboradores
 <div style='display:flex;'>
-  <img style='width:45px;margin:15px;border-radius:50%;' src="images/LucasMeuNamoradoLindo.jpg" />
-  <p>Lucas Vieira Ribeiro</p>
-  <img style='width:45px;margin:15px;border-radius:50%;' src="images/euSara.jpg" />
-  <p>Sara Isabele Lima de Oliveira</p>
+  <img style='width:45px;margin:15px;border-radius:50%;' src="images/LucasMeuNamoradoLindo.jpg" /><p>Lucas Vieira Ribeiro</p>
+  <img style='width:45px;margin:15px;border-radius:50%;' src="images/euSara.jpg" /><p>Sara Isabele Lima de Oliveira</p>
  </div>
 
 ## Trabalho da disciplina de Algoritmos e Programação
